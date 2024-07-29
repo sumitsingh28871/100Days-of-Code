@@ -1,4 +1,4 @@
-#Greetins of the program
+#Greetings of the program 
 print ("Welcome to the Band Name Generator")
 
 #Ask the user about their city they grew up in
